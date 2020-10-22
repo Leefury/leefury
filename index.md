@@ -1,3 +1,7 @@
+---
+title: Leefury
+---
+
 ## Welcome to GitHub Pages
 
 You can read more about Leefury [here](https://leefury.github.io/leefury/about.md).
