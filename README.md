@@ -1,7 +1,7 @@
-# Git Test Repo
-I am learning how git hub works and experimenting with coding
+# What is this?
+I am simply learning how git hub works and experimenting with coding.
 
-## Sub Header Test
+## My Message
 
 Hello World!
 
