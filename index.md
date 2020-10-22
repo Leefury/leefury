@@ -4,7 +4,7 @@ title: Leefury
 
 ## Welcome to GitHub Pages
 
-You can read more about Leefury [here](https://leefury.github.io/leefury/about.md).
+You can read more about Leefury [here](https://leefury.github.io/leefury/README.md).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
